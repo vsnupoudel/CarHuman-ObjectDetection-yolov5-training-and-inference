@@ -1,0 +1,4 @@
+train: /content/yolov5/trainval/images/train/
+val: /content/yolov5/trainval/images/validation/
+nc: 2
+names: ['Person', 'Car']
